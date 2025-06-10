@@ -8,10 +8,39 @@ export const ProjectList = [
       <li>An AI-powered platform that generates personalized interview questions, conducts mock interviews, and saves them with unique interview links </li>
       <li>Developed a fully functional web application on AI Mock Interview in 4 weeks.</li>
       </ul>,
-    tech_stack: ["React.js","TAILWINDCSS","NODEJS"],
+    tech_stack: ["React.js","TAILWINDCSS","Supabase"],
     github_url: "https://github.com/Abhi18704/smart-interview-assistant",
     demo_url: "https://smart-interview-assistant-eight.vercel.app/",
   },
+  {
+    img: "/toursim.png",
+    title: "AI Travel Planner",
+    description:
+      <ul>
+      <li> Personalized Trip Planner: Uses the Gemini 1.5 Flash API to generate customized travel itineraries based on user input like destination, dates, budget, and interests.</li>
+      <li>Developed a fully functional web application on AI Mock Interview in 2 weeks.</li>
+      </ul>,
+    tech_stack: ["Vite + React","TypeScript","Gemini API"],
+    github_url: "https://github.com/Abhi18704/ai-travel-planner",
+    demo_url: "https://ai-travel-planner-orpin-nine.vercel.app/",
+  },
+  {
+    img: "/task.png",
+    title: "Task Menotr",
+    description:
+      <ul>
+      <li> AI-Augmented Development: Leveraged cutting-edge AI prompts to streamline the full-stack development
+      process, demonstrating how LLMs can accelerate ideation, coding, and debugging for modern applications.</li>
+      <li> Student-Centric Design: Built with a strong focus on student productivity integrating task management, notes,
+      and smart reminders into a single seamless experience powered by React, TypeScript, and Supabase.</li>
+      </ul>,
+    tech_stack: ["Vite + React","TypeScript","Supabase"],
+    github_url: "https://github.com/Abhi18704/Task-Mentor",
+    demo_url: "https://task-mentor-vert.vercel.app/",
+  },
+
+  
+  /*
   {
     img: "/amazon.jpg",
     title: "Amazon Clone",
@@ -73,8 +102,9 @@ export const ProjectList = [
     github_url: "https://github.com/Abhi18704/Tourism-management-system",
     demo_url:"",
   },
+
 ];
-  /*
+  
   {
     img: "/renr-responsive.png",
     title: "RENR Safety App",
@@ -110,8 +140,8 @@ export const ProjectList = [
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
     github_url: "https://github.com/salesp07/JobDetectNode",
     demo_url: "https://jobdetective.onrender.com/",
-  },
-];*/
+  },*/
+];
 
 
 // --------------------------------------- Skills
@@ -133,7 +163,7 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     name: "ReactJS",
   },
-  /*
+  
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
     name: "NextJs",
@@ -141,16 +171,16 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
     name: "Typescript",
-  },*/
+  },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
-  /*
+  
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     name: "React Native",
-  },*/
+  },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
