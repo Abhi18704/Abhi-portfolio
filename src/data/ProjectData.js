@@ -26,11 +26,10 @@ export const ProjectList = [
   },
   {
     img: "/task.png",
-    title: "Task Menotr",
+    title: "Task Mentor",
     description:
       <ul>
-      <li> AI-Augmented Development: Leveraged cutting-edge AI prompts to streamline the full-stack development
-      process, demonstrating how LLMs can accelerate ideation, coding, and debugging for modern applications.</li>
+      <li>  AI-Powered Development: Used advanced AI prompts to speed up full-stack app creation, from ideation to debugging.</li>
       <li> Student-Centric Design: Built with a strong focus on student productivity integrating task management, notes,
       and smart reminders into a single seamless experience powered by React, TypeScript, and Supabase.</li>
       </ul>,
