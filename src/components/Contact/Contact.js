@@ -8,7 +8,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 function Contact() {
   const [showTooltip, setShowTooltip] = useState(false);
   const copyToClipboard = () => {
-    navigator.clipboard.writeText("abhigolanakonda18704@gmail.com");
+    navigator.clipboard.writeText("abhigolanakonda4546@gmail.com");
     setShowTooltip(true);
     setTimeout(() => {
       setShowTooltip(false);
@@ -45,7 +45,7 @@ function Contact() {
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="mailto:abhigolanakonda18704@gmail.com"
+                href="mailto:abhigolanakonda4546@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
